@@ -32,15 +32,17 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
     <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
   </a>
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/swapnil239" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" width="48px"/>
-  </a>
+  <!--Leetcode -->
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/swapnil239/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="48px"/>
-  </a>
+<a href="https://leetcode.com/u/swapnil239/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<!--Kaggle -->
+
+<a href="https://www.kaggle.com/swapnil239" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/swapnilsharma239/" target="_blank">
