@@ -38,7 +38,7 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/wEdmI8ijpM/" target="_blank">
+  <a href="https://leetcode.com/u/swapnil239/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" width="48px"/>
   </a>
 
