@@ -25,7 +25,6 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
 ---
 
 ## 🌐 **Find me at**
-### 🌐 Find me at  
 <p align="left">
 
   <!-- LinkedIn -->
@@ -39,7 +38,7 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/profile/" target="_blank">
+  <a href="https://leetcode.com/u/wEdmI8ijpM/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" width="48px"/>
   </a>
 
@@ -65,7 +64,7 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
   <img src="https://skillicons.dev/icons?i=html" width="45"/> 
   <img src="https://skillicons.dev/icons?i=css" width="45"/> 
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=sql" width="45"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/> 
   <img src="https://skillicons.dev/icons?i=git" width="45"/> 
   <img src="https://skillicons.dev/icons?i=docker" width="45"/> 
 
