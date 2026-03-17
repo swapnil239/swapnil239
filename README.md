@@ -1,7 +1,7 @@
-# Hi 🖐️, This is Swapnil Sharma    <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Aspiring+Software+Engineer;AI/ML+Learner;Future+SDE+🚀" />
+# Hi 🖐️, This is Swapnil Sharma    
 <p align="center">
-
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
 
 ### 🔭 What I'm currently working on                                                
 - Mastering Python and building Projects🐍
