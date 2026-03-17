@@ -4,11 +4,14 @@
 
 - Mastering Python and building Projects 🐍  
 - backend frameworks: Flask and FastAPI ⚡  
-- SQL and MongoDB 🧠  
+- SQL and MongoDB 🧠
+ ---
 
 ### 💬 Ask me about
 
 Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, AI/ML Projects, DSA Roadmaps
+
+---
 
 ### 🤝 Looking to collaborate on
 Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
