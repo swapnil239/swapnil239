@@ -7,10 +7,9 @@
 - Mastering Python and building Projects🐍
 - backend frameworks: Flask and FastAPI⚡💡
 - SQL and MongoDB👩‍💻
-- <p align="center">
+ <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
-
 ---
 
 ### 💬 Ask me about
