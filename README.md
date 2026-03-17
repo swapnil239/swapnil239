@@ -1,5 +1,5 @@
 # Hi 🖐️, This is Swapnil Sharma    
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
 </p>
 
@@ -7,7 +7,7 @@
 - Mastering Python and building Projects🐍
 - backend frameworks: Flask and FastAPI⚡💡
 - SQL and MongoDB👩‍💻
- <p align="center">
+ <p align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 
