@@ -3,7 +3,7 @@
 ### 🚀 What I'm currently working on
 
 - Mastering Python and building Projects 🐍  
-- backend frameworks: Flask and FastAPI ⚡  
+- AI/ML Learner ⚡  
 - SQL and MongoDB 🧠
  ---
 
