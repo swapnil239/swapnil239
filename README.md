@@ -1,4 +1,5 @@
-# Hi 🖐️, This is Swapnil Sharma
+# Hi 🖐️, This is Swapnil Sharma    <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Aspiring+Software+Engineer;AI/ML+Learner;Future+SDE+🚀" />
+<p align="center">
 ### A Aspiring Software Engineer | Python & its backend frameworks | Cloud Computing Explorer
 
 
@@ -83,9 +84,6 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
 </p>
 
 ---
-<img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Aspiring+Software+Engineer;Data+Science+Learner;Future+SDE+🚀" />
-<p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=swapnil239&show_icons=true&theme=radical" />
 
 </p>
