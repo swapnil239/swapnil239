@@ -10,7 +10,6 @@
  <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
----
 
 ### 💬 Ask me about
 Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, AI/ML Projects, DSA Roadmaps
