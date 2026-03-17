@@ -1,10 +1,5 @@
 # Hi 🖐️, This is Swapnil Sharma 
 
-<table>
-<tr>
-
-<td>
-
 ### 🚀 What I'm currently working on
 
 - Mastering Python and building Projects 🐍  
@@ -14,17 +9,6 @@
 ### 💬 Ask me about
 
 Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, AI/ML Projects, DSA Roadmaps
-
-</td>
-
-<td>
-<img src="https://media.giphy.com/media/LMcBBXosgpGZO8UQq87/giphy.gif" width="250"/>
-</td>
-
-</tr>
-</table>
-
-
 
 ### 🤝 Looking to collaborate on
 Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
