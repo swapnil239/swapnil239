@@ -1,20 +1,23 @@
-# Hi 🖐️, This is Swapnil Sharma    
-<p align="right">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
-</p>
+# Hi 🖐️, This is Swapnil Sharma 
 
 ### 🔭 What I'm currently working on                                                
 - Mastering Python and building Projects🐍
 - backend frameworks: Flask and FastAPI⚡💡
 - SQL and MongoDB👩‍💻
+ ---
+ ### 💬 Ask me about
+Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, AI/ML Projects, DSA Roadmaps
+
+---
+<p align="right">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
+</p>
+
  <p align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 
-### 💬 Ask me about
-Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, AI/ML Projects, DSA Roadmaps
 
----
 
 ### 🤝 Looking to collaborate on
 Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
