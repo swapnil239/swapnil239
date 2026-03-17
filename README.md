@@ -86,7 +86,7 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swapnil239&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=swapnil239&theme=radical" />
+
 </p>
 
 💙 *Let's connect and build something innovative together!*
