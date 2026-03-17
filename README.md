@@ -68,14 +68,18 @@ Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/> 
   <img src="https://skillicons.dev/icons?i=mysql" width="45"/> 
   <img src="https://skillicons.dev/icons?i=git" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=docker" width="45"/> 
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" width="45"/> 
 
   <!-- Newly added -->
   <img src="https://skillicons.dev/icons?i=flask" width="45"/>
-  <img src="https://skillicons.dev/icons?i=django" width="45"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="45"/>
-  <img src="https://skillicons.dev/icons?i=opencv" width="45"/>   <!-- For ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/> <!-- ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+
 </p>
 
 ---
