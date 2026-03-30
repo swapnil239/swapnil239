@@ -1,4 +1,5 @@
 # Hi 🖐️, This is Swapnil Sharma 
+![Profile views](https://komarev.com/ghpvc/?username=swapnil239&color=blue)
 
 ### 🚀 What I'm currently working on
 
@@ -17,7 +18,6 @@ Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, A
 Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ### ⚡ Fun fact
 ☕Coffee in one hand, code in the another, i'm little aesthetic and a lot dedicated 💙🐌
