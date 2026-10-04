@@ -3,24 +3,13 @@
 
 ### 🚀 What I'm currently working on
 
-- Mastering Python and building Projects 🐍  
+- Python Backend Development(FastAPI, Docker, AWS) 🐍  
 - AI/ML Learner ⚡  
-- SQL and MongoDB 🧠
+- PostgreSQL, SQL 🧠
  ---
 
-### 💬 Ask me about
-
-Python, Web Development, SQL, GitHub, Cloud basics, AI Tools for productivity, AI/ML Projects, DSA Roadmaps
-
----
-
-### 🤝 Looking to collaborate on
-Beginner-friendly **Python / Web Dev / Cloud Projects**, college tech projects
-
----
-
 ### ⚡ Fun fact
-☕Coffee in one hand, code in the another, i'm little aesthetic and a lot dedicated 💙🐌
+☕Coffee in one hand, code in the another, i'm little aesthetic and a lot dedicated 💙
 
 ---
 
